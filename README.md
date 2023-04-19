@@ -1,3 +1,6 @@
+**A simple script that brings back Parsec Arcade.**
+
+
 # Installation (with Tampermonkey)
 
 Tampermonkey is a popular browser extension that allows you to install and run user scripts on your web browser. User scripts can be used to add new functionality to a website, modify the appearance of a webpage, or automate certain tasks. In this tutorial, we will be showing you how to install a user script in Tampermonkey using a simple step-by-step guide.
