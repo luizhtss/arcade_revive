@@ -3,6 +3,7 @@
 // @version      1
 // @description  Reactivate Parsec Arcade
 // @author		 LuizHTSS
+// @namespace	 https://github.com/luizhtss/arcade_revive
 // @match        https://web.parsec.app
 // @grant        none
 // ==/UserScript==
